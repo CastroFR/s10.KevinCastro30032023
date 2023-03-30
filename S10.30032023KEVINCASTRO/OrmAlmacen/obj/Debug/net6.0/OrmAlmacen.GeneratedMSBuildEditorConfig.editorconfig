@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = OrmAlmacen
+build_property.ProjectDir = C:\Users\MINEDUCYT\Desktop\S9KevinCastro25032023-main\S9KevinCastro25032023-main\Castro.semana9_25032023-main\Castro.semana8_18032023-main\OrmAlmacen\
